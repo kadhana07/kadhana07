@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kadhana Penumaka</h1>
-<h3 align="center">CS Grad from GSU · Obsessed with AI, NLP & Building Data Pipelines </h3>
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  <h5>🚀 CS Grad from GSU &nbsp;·&nbsp; 
+  <font color="#7b2ff7">Obsessed with AI</font> &nbsp;·&nbsp; 
+  <font color="#2196f3">NLP</font> &nbsp;·&nbsp; 
+  <font color="#00bcd4">Building Data Pipelines That Scale</font> 
+  &nbsp;🤖</h5>
+</marquee>
 
 ---
 - 🌱 I’m currently learning **AI USING PYTHON**
