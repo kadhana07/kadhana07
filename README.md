@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kadhana Penumaka</h1>
-<h3 align="center">CS Grad from GSU · Obsessed with AI, NLP & Building Data Pipelines That Scale</h3>
+<h3 align="center">CS Grad from GSU · Obsessed with AI, NLP & Building Data Pipelines </h3>
 
 ---
 - 🌱 I’m currently learning **AI USING PYTHON**
